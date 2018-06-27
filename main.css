@@ -1,0 +1,22 @@
+#box iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100vh;
+    width: 50vh;
+    box-shadow: 
+    0 4px 8px 0 
+    rgba(0, 0, 0, 0.2), 0 6px 20px 0 
+    rgba(0, 0, 0, 0.19);
+    
+}
+
+body{
+    background-image: url('daily-ui-059.gif');
+    background-repeat: no-repeat;
+    margin: 0px;
+    background-size: cover;
+    height: 100vh;
+    
+    
+}
