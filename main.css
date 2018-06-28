@@ -10,6 +10,12 @@
     
 }
 
+
+#footer img{
+    position: absolute;
+    right: 0;
+    background-color: black;
+}
 body{
     background-image: url('img/daily-ui-059.gif');
     background-repeat: no-repeat;
@@ -17,5 +23,5 @@ body{
     background-size: cover;
     height: 100vh;
     
-    
+
 }
