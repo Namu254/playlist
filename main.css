@@ -7,7 +7,6 @@
     box-shadow: 12px 0 15px -4px 
     rgba(0, 0, 0, 0.250), -12px 0 8px -4px 
     rgba(0, 0, 0, 0.250);
-    
 }
 
 
@@ -17,10 +16,12 @@
     background-color: black;
 }
 body{
-    background-image: url('img/daily-ui-059.gif');
+    background-image: url('img/circles.gif');
     background-repeat: no-repeat;
     margin: 0px;
+    background-position: center;
     background-size: cover;
+    
     height: 100vh;
     
 
