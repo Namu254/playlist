@@ -24,12 +24,11 @@
     
 }
 body{
-    background-image: url('img/circles.gif');
+    background-image: url('img/blackcircles.gif');
     background-repeat: no-repeat;
     margin: 0px;
     background-position: center;
     background-size: cover;
-    
     height: 100vh;
     
 
