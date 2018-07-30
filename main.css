@@ -24,7 +24,8 @@
     
 }
 body{
-    background-image: url('img/blackcircles.gif');
+/*     background-image: url('img/blackcircles.gif'); */
+    background-color: 5CDB95;
     background-repeat: no-repeat;
     margin: 0px;
     background-position: center;
